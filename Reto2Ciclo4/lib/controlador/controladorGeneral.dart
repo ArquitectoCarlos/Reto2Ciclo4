@@ -8,7 +8,7 @@ class controladorGeneral extends GetxController {
   void onInit() {
     pro.add(productos(
         1,
-        "Baggage Dark",
+        "Baggage Darkk",
         "https://cuerosvelezco.vteximg.com.br/arquivos/ids/233024-450-675/1007422-28-02-Maleta-de-viaje.jpg?v=637859081151500000",
         0,
         100000));
